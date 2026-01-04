@@ -23,16 +23,17 @@ torch --index-url https://download.pytorch.org/whl/cpu
 kagglehub[pandas-datasets]
 
 # For DistilBERT
-# transformers 
-# datasets 
-# torch 
-# accelerate
+transformers 
+datasets 
+torch 
+accelerate
 
 # For Gemini API
-# google-generative-ai
+python-dotenv
+google-generative-ai
 
 # For LIME
-# lime
+lime
 
 # For BERTopic
-# bertopic
+bertopic
